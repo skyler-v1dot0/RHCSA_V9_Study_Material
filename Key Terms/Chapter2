@@ -1,16 +1,16 @@
-Shell - the environment from which commands can be executed. Bash is the default shell on Linux, but others shells exist as well
-Bash - default shell used on Red Hat Enterprise Linux
-Internal Command - a command that is part of the shell and does not exist as a file on disk
-External Command - a command that exists as a file on disk
-$PATH - a variable that contains a list of directories that are searched for executable files when a user enters a command
-STDIN - the default location where a program gets its input. Same as standard input
-STDOUT - the default location where a program sends its regular output. Same as standard output
-STDERR - the default location where a program sends error messages. Same as standard error
-Redirection - using redirect operators such as '<' '>' to change the location of stdin, stdout, and/or stderror
-File Descriptor - a pointer that is used by a Linux process to refer to files that are in use by the process
-Device File - a file that is created in the /dev directory and that is used to represent and interact with a device
-Pipe - a structure that can be used to forward the output of one command to be used as input for another command
-Environment - the collection of settings that users or processes are using to do their work
-Variable - a label that contains a specific value that can be changed dynamically. In scripting, variables are frequently used to allow the script to be flexible
-Login Shell - the shell that is opened directly after a user has logged in
-Subshell - a shell that is started from another shell. Typically, a subshell is started by running a shell script
+Shell -             the environment from which commands can be executed. Bash is the default shell on Linux, but others shells exist as well
+Bash -              default shell used on Red Hat Enterprise Linux
+Internal Command -  a command that is part of the shell and does not exist as a file on disk
+External Command -  a command that exists as a file on disk
+$PATH -             a variable that contains a list of directories that are searched for executable files when a user enters a command
+STDIN -             the default location where a program gets its input. Same as standard input
+STDOUT -            the default location where a program sends its regular output. Same as standard output
+STDERR -            the default location where a program sends error messages. Same as standard error
+Redirection -       using redirect operators such as '<' '>' to change the location of stdin, stdout, and/or stderror
+File Descriptor -   a pointer that is used by a Linux process to refer to files that are in use by the process
+Device File -       a file that is created in the /dev directory and that is used to represent and interact with a device
+Pipe -              a structure that can be used to forward the output of one command to be used as input for another command
+Environment -       the collection of settings that users or processes are using to do their work
+Variable -          a label that contains a specific value that can be changed dynamically. In scripting, variables are frequently used to allow the script to be flexible
+Login Shell -       the shell that is opened directly after a user has logged in
+Subshell -          a shell that is started from another shell. Typically, a subshell is started by running a shell script
