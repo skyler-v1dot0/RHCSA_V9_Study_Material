@@ -1,0 +1,19 @@
+"Do not try to work with as many commands as possible when working with vim. Just
+use a minimal set of commands and use them often. You’ll see; you’ll get used to these
+commands and remember them on the exam. Also, you may like the vimtutor
+command. (You may have to use dnf install vim-enhanced to install it; Chapter 9,
+“Managing Software,” provides more details about software installation.) This
+command opens a vim tutorial that has you work through some nice additional
+exercises." -Pg 38
+
+"Nearly all commands provide a short overview of help when the option --help is used.
+Some commands do not honor that option and consider it erroneous. Fortunately, these
+commands will be so friendly as to show an error message, displaying valid options with
+the command, which effectively means that you’ll get what you needed anyway." -Pg 43
+
+"Instead of using man -k, you can use the apropos command, which is equivalent to
+man -k." -Pg 45
+
+"Do not try to memorize all the commands that you need to accomplish specific tasks.
+Instead, memorize how to find these commands and find which man page to read to get
+more information about the command." -Pg 46

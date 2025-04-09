@@ -1,0 +1,16 @@
+Shell - the environment from which commands can be executed. Bash is the default shell on Linux, but others shells exist as well
+Bash
+Internal Command
+External Command
+$PATH - a variable that contains a list of directories that are searched for executable files when a user enters a command
+STDIN
+STDOUT
+STDERR
+Redirection
+File Descriptor
+Device File
+Pipe
+Environment
+Variable
+Login Shell
+Subshell
